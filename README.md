@@ -4,12 +4,14 @@ The Vridha Store Sales Report is an interactive data analytics dashboard develop
 This project aims to transform raw sales data into meaningful insights using data cleaning, pivot tables, charts, and slicers. The dashboard allows users to dynamically filter data and observe real-time changes in trends and key performance metrics.
 
 Tools & Techniques Used
+
 •	Microsoft Excel (Advanced Features):
 o	Pivot Tables for dynamic data summarization
 o	Pivot Charts for visual representation of KPIs
 o	Slicers for interactive filtering by Gender, Age Group, and State
 o	Data validation and formatting for accuracy and clarity
 o	Chart types: Column chart, Bar chart, Pie chart, Line chart
+
 •	Data Analysis Concepts:
 o	Sales trend analysis (Monthly and Yearly comparison)
 o	Channel performance evaluation
